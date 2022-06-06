@@ -5,5 +5,5 @@ Os código serão disponibilizados em uma tabela com id, título, dificuldade de
 
 ID          | Título  | Dificuldade    | Solução
 :---------: | ------- | :------------: | :-------:
-10128       | [Movies that Abigail Breslin nominated for oscar](https://platform.stratascratch.com/coding/10128-count-the-number-of-movies-that-abigail-breslin-nominated-for-oscar?code_type=3) | Fácil | [Link]()
-10352       | [Users By Average Session Time](https://platform.stratascratch.com/coding/10352-users-by-avg-session-time?code_type=3) | Médio | [Link]()
+10128       | [Count the number of movies that Abigail Breslin nominated for oscar](https://platform.stratascratch.com/coding/10128-count-the-number-of-movies-that-abigail-breslin-nominated-for-oscar?code_type=3) | Fácil | [Link](https://github.com/andreluizjaques/diariostratascratch/blob/main/codigos/10128.sql)
+10352       | [Users By Average Session Time](https://platform.stratascratch.com/coding/10352-users-by-avg-session-time?code_type=3) | Médio | [Link](https://github.com/andreluizjaques/diariostratascratch/blob/main/codigos/10352.sql)
