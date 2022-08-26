@@ -1,6 +1,6 @@
 # Diário de códigos StrataScratch
 
-Este diário é para salvar as resoluções de questões reais disponibilizados pelo StrataScratch com intuito de aprendizado em MySQL e Python.
+Este diário é para salvar as resoluções de questões reais disponibilizados pelo StrataScratch com intuito de aprendizado em MySQL e/ou Python.
 Os código serão disponibilizados em uma tabela com id, título, dificuldade de resolução e link do código.
 
 ID          | Título  | Dificuldade    | Solução
