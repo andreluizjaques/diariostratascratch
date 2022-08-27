@@ -14,3 +14,4 @@ ID          | Título  | Dificuldade    | Solução
 10308       | [Salaries Differences](https://platform.stratascratch.com/coding/10308-salaries-differences)| Fácil | [Link](https://github.com/andreluizjaques/diariostratascratch/blob/main/codigos/10308.sql)
 10353       | [Workers With The Highest Salaries](https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries) | Médio | [Link](https://github.com/andreluizjaques/diariostratascratch/blob/main/codigos/10353.sql)
 9942        | [Largest Olympics](https://platform.stratascratch.com/coding/9942-largest-olympics?code_type=3) | Médio | [Link](https://github.com/andreluizjaques/diariostratascratch/blob/main/codigos/9942.sql)
+514         | [Marketing Campaign Success (Advanced)](https://platform.stratascratch.com/coding/514-marketing-campaign-success-advanced?code_type=3) | Difícil | [Link](https://github.com/andreluizjaques/diariostratascratch/blob/main/codigos/514.sql)
